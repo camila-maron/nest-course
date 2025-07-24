@@ -1,0 +1,2 @@
+npm run migration:generate -- src/migrations/NombreMigracion
+rpm run migration:run
